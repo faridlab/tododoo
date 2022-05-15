@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "play-tododo",
-    "slug": "play-tododo",
+    "name": "Tododo",
+    "slug": "tododo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "todoodoo",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
